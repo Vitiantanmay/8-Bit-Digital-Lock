@@ -16,7 +16,7 @@ An HDL-based digital lock system that verifies an 8-bit key. Grants access on co
 ## 🛠 Tech Stack
 - **HDL:** HDL Verilog  
 - **Tools:** ModelSim / Xilinx ISE / Vivado (for simulation & synthesis)  
-- **Target Hardware:** FPGA boards (any supporting Verilog)  
+- **Target Hardware:** FPGA boards (any supporting Verilog).
 
 ---
 
